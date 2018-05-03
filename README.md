@@ -1,3 +1,6 @@
 # mobius-cesium
-Redirect to the mobius-cesium on design-automation
+Project has moved to:
 https://github.com/design-automation/mobius-cesium
+
+The github IO page::
+https://phtj.github.io/mobius-cesium/
